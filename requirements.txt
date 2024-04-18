@@ -1,4 +1,1 @@
-langchain
-dotenv
-openai
 langchain_openai
